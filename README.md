@@ -1,3 +1,2 @@
 # firsttext
-text
-text2
+衝突1
